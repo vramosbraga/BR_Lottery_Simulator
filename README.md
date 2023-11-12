@@ -4,6 +4,12 @@ Explore the thrill of lottery simulations with this Python script! Simulate draw
 
 ![Preview](https://github.com/vramosbraga/BR_Lottery_Simulator/blob/main/lottery_sim.PNG)
 
+## Table of Contents
+- [How to Use](#howtouse)
+- [Lottery Options](#lotteryoptions)
+- [Contributions](#contributions)
+- [License](#license)
+
 ## How to Use
 1. Run the script.
 2. Choose the type of lottery to simulate from the provided options.
@@ -11,15 +17,7 @@ Explore the thrill of lottery simulations with this Python script! Simulate draw
 
 Feel the anticipation and customize your experience. [Contribute](link_to_contribution_guide) to make it even better!
 
-
-**How to Use:**
-1. Run the script.
-2. Choose the type of lottery to simulate from the provided options.
-3. Input the desired number of games to generate.
-
-Feel free to explore and adapt the code to suit your needs or contribute to its enhancement!
-
-**Lottery Types:**
+**Lottery Options:**
 - Mega Sena: 60 numbers, 6 drawn
 - Lotofacil: 25 numbers, 15 drawn
 - Lotomania: 100 numbers, 50 drawn
@@ -27,5 +25,10 @@ Feel free to explore and adapt the code to suit your needs or contribute to its 
 
 **Contributions:**
 Contributions and improvements are welcome! If you have suggestions or want to add new features, feel free to create a pull request.
+
+**License**
+This project is licensed under the GNU License.
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
 
 ---
