@@ -5,8 +5,8 @@ Explore the thrill of lottery simulations with this Python script! Simulate draw
 ![Preview](https://github.com/vramosbraga/BR_Lottery_Simulator/blob/main/lottery_sim.PNG)
 
 ## Table of Contents
-- [How to Use](#howtouse)
-- [Lottery Options](#lotteryoptions)
+- [How to Use](#how-to-use)
+- [Lottery Options](#lottery-options)
 - [Contributions](#contributions)
 - [License](#license)
 
@@ -28,6 +28,7 @@ Contributions and improvements are welcome! If you have suggestions or want to a
 
 **License**
 This project is licensed under the GNU License.
+
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
 
