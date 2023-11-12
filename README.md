@@ -1,6 +1,6 @@
 # Lottery Number Generator 🎰
 
-![Preview]([https://github.com/vramosbraga/BR_Lottery_Simulator/blob/main/lottery_sim.PNG]
+![Preview](https://github.com/vramosbraga/BR_Lottery_Simulator/blob/main/lottery_sim.PNG)
 
 Explore the thrill of lottery simulations with this Python script! Simulate draws for Mega Sena, Lotofacil, Lotomania, and Quina. Simply run the script, choose your lottery type, input the desired games, and watch as it generates sorted tuples of random numbers. The user-friendly interface and dynamic results make it easy to enjoy the excitement of different lotteries.
 
