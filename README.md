@@ -17,16 +17,16 @@ Explore the thrill of lottery simulations with this Python script! Simulate draw
 
 Feel the anticipation and customize your experience. [Contribute](link_to_contribution_guide) to make it even better!
 
-**Lottery Options:**
+## Lottery Options
 - Mega Sena: 60 numbers, 6 drawn
 - Lotofacil: 25 numbers, 15 drawn
 - Lotomania: 100 numbers, 50 drawn
 - Quina: 50 numbers, 5 drawn
 
-**Contributions:**
+## Contributions
 Contributions and improvements are welcome! If you have suggestions or want to add new features, feel free to create a pull request.
 
-**License**
+## License
 This project is licensed under the GNU License.
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
